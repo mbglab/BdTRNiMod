@@ -5,7 +5,7 @@ There are four subfolders in the data folder named raw_data, external, processed
 The following data files are available in the data folder:
 
 1. raw_data
-- log2expset.csv: Gene expression compendium for _Bradyrhizobium diazoefficiens_ USDA110 with log2 transformation.
+- log2expset.csv.gz: Gene expression compendium for _Bradyrhizobium diazoefficiens_ USDA110 with log2 transformation.
 - metadata_all.csv: Original experimental metadata (e.g. strain descriptions, medium etc.) information.
 2. external
 - eggNOG_annotations.txt: The eggNOG annotations of _B. diazoefficiens_ USDA110.
