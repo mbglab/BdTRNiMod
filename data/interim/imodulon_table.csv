@@ -1,0 +1,65 @@
+,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,imodulon_name,Function,Category,Sub_category,explained_variance,imodulon_type
+Unchar-1,Unchar,,,,,,,,58,,Unchar-1,Unknown,Uncharacterized,Uncharacterized iModulons,0.001248398,Uncharacterized
+T3SS,T3SS,,,,,,,,45,,T3SS,T3SS system,Structural components,Secretion system,0.036405152,Functional
+Unchar-2,Unchar,,,,,,,,18,,Unchar-2,Unknown,Uncharacterized,Uncharacterized iModulons,0.001036159,Uncharacterized
+FixK2-1,FixK2,1.02e-21,8.14e-21,0.18852459,0.23,0.207207207,23.0,100.0,122,1.0,FixK2-1,Oxidative adaptation,Stress,Oxidative adaptation,0.014985188,Regulatory
+bll2166,bll2166,3.94e-06,7.88e-06,0.06122449,0.5,0.109090909,3.0,6.0,49,1.0,bll2166,Amino acid transport,Amino acid,Transportation,0.011833256,Regulatory
+NifA/RpoN,NifA/RpoN,5.31e-49,4.7699999999999995e-48,0.183544304,0.935483871,0.306878307,29.0,31.0,158,1.0,NifA;RpoN,Nitrogen fixation,Nitrogen,Nitrogen metabolism	,0.098369323,Regulatory
+PhyR/EcfG-1,PhyR,6.1e-70,1.83e-69,0.310344828,1.0,0.473684211,36.0,36.0,116,1.0,PhyR-1,Multiple stress,Stress,Multiple stress,0.011136053,Regulatory
+Denitrification,Denitrification,,,,,,,,11,,Denitrification,Denitrification,Nitrogen,Nitrogen metabolism	,0.005865757,Functional
+Null-1,Null,,,,,,,,0,,Null-1,Null,Uncharacterized,Empty,0.001745123,Uncharacterized
+Methane,Methane,,,,,,,,14,,Methane,Methane oxidation ,Carbon,Small carbon catabolism,0.00183069,Functional
+Unchar-3,Unchar,,,,,,,,62,,Unchar-3,Unknown,Uncharacterized,Uncharacterized iModulons,0.002832804,Uncharacterized
+Irr,Irr,1.69e-33,3.38e-33,0.31372549,0.8,0.450704225,16.0,20.0,51,1.0,Irr,Inorganic ion transport and metabolism,Element homeostasis,Iron homeostasis,0.026938709,Regulatory
+Multiple_stress,Multiple_stress,,,,,,,,38,,Multiple_stress-1,"Multiple stress response, Hydrogen peroxide",Stress,Multiple stress,0.014683981,Functional
+bll3348,bll3348,,,,,,,,15,,bll3348,Amino acid transportation,Amino acid,Transportation,0.002942864,Functional
+Unchar-4,Unchar,,,,,,,,2,,Unchar-4,Unknown,Uncharacterized,Uncharacterized iModulons,0.00110925,Uncharacterized
+Genomic-1,Genomic,,,,,,,,1,,Genomic-1,FixK deletion,Genomic,Genomic iModulon,0.010427856,Genomic
+Unchar-5,Unchar,,,,,,,,23,,Unchar-5,Unknown,Uncharacterized,Uncharacterized iModulons,0.01383806,Uncharacterized
+XylR/bll3916,XylR/bll3916,2.15e-10,4.09e-07,0.044334975,0.473684211,0.081081081,9.0,19.0,203,2.0,XylR/bll3916,Sugar catabolism,Carbon,Sugar catabolism,0.020436841,Regulatory
+Genomic-2,Genomic,,,,,,,,8,,Genomic-2,mutated nodW gene and an overexpressed nwsB gene,Genomic,Genomic iModulon,0.003757458,Genomic
+Unchar-6,Unchar,,,,,,,,41,,Unchar-6,Unknown,Uncharacterized,Uncharacterized iModulons,0.000695241,Uncharacterized
+Unchar-7,Unchar,,,,,,,,124,,Unchar-7,Unknown,Uncharacterized,Uncharacterized iModulons,0.000924196,Uncharacterized
+HrcA,HrcA,1.61e-08,4.82e-08,0.03968254,0.714285714,0.07518797,5.0,7.0,126,1.0,HrcA,Chaeperone,Translation,Post translation,0.012012715,Regulatory
+Signal_transduction,Signal_transduction,,,,,,,,23,,Signal_transduction,Signal transduction mechanisms,Signal transduction,Signal transduction mechanisms,0.004512622,Functional
+Leucine,Leucine,,,,,,,,30,,Leucine,Leucine degradation,Amino acid,Synthesis/degradation,0.003076989,Functional
+Flagella,Flagella,,,,,,,,46,,Flagella,Flagella synthesis,Structural components,Cell mobility,0.041373337,Functional
+Translation-1,Translation,,,,,,,,53,,Translation-1,Protein synthesis,Translation,Translation,0.009116417,Functional
+Calvin_cycle,Calvin_cycle,,,,,,,,9,,Calvin_cycle,Calvin_cycle,Carbon,Carbon fixation,0.002810127,Functional
+Unchar-8,Unchar,,,,,,,,53,,Unchar-8,Unknown,Uncharacterized,Uncharacterized iModulons,0.000664347,Uncharacterized
+Oxidation_stress,Oxidation_stress,,,,,,,,21,,Oxidation_stress,Oxidative stress,Stress,Oxidative stress,0.002245458,Functional
+Unchar-9,Unchar,,,,,,,,64,,Unchar-9,Unknown,Uncharacterized,Uncharacterized iModulons,0.001312862,Uncharacterized
+Phenylalanine,Phenylalanine,,,,,,,,25,,Phenylalanine,Aromatic acid catabolism,Carbon,Aromatics catabolism,0.035827915,Functional
+FixK2-2,FixK2,1.7700000000000001e-66,1.77e-65,0.310344828,0.54,0.394160584,54.0,100.0,174,1.0,FixK2-2,Oxidative adaptation,Stress,Oxidative adaptation,0.115526663,Regulatory
+Unchar-10,Unchar,,,,,,,,28,,Unchar-10,Unknown,Uncharacterized,Uncharacterized iModulons,0.00111213,Uncharacterized
+Unchar-11,Unchar,,,,,,,,36,,Unchar-11,Unknown,Uncharacterized,Uncharacterized iModulons,0.00176281,Uncharacterized
+Translation-2,Translation,,,,,,,,4,,Translation-2,Protein synthesis,Translation,Translation,0.017881018,Functional
+Null-2,Null,,,,,,,,0,,Null-2,Null,Uncharacterized,Empty,0.09146403,Uncharacterized
+HutC,HutC,8.79e-26,8.79e-26,0.8,1.0,0.888888889,8.0,8.0,10,1.0,HutC,Histidine metabolism,Amino acid,Synthesis/degradation,0.002716922,Regulatory
+Genomic-3,Genomic,,,,,,,,13,,Genomic-3,Unknown,Genomic,Genomic iModulon,0.001404601,Genomic
+Unchar-12,Unchar,,,,,,,,29,,Unchar-12,Unknown,Uncharacterized,Uncharacterized iModulons,0.003165689,Uncharacterized
+Noise,Noise,,,,,,,,2,,Noise-1,"Noise, cytochrome P450",Uncharacterized,Noisy genes,0.00562696,Uncharacterized
+Unchar-13,Unchar,,,,,,,,21,,Unchar-13,Unknown,Uncharacterized,Uncharacterized iModulons,0.001826796,Uncharacterized
+Unchar-14,Unchar,,,,,,,,83,,Unchar-14,Unknown,Uncharacterized,Uncharacterized iModulons,0.00386395,Uncharacterized
+AA_transport,AA_transport,,,,,,,,24,,AA_transport,Branched amino acid transportation,Amino acid,Transportation,0.001077763,Functional
+Glyoxylate,Glyoxylate,,,,,,,,70,,Glyoxylate,Glyoxylate and dicarboxylate metabolism,Carbon,Carbohydrate metabolism,0.007117118,Functional
+Unchar-15,Unchar,,,,,,,,5,,Unchar-15,Unknown,Uncharacterized,Uncharacterized iModulons,0.009462711,Uncharacterized
+NodD2,NodD2,3.13e-18,6.25e-18,0.24137931,1.0,0.388888889,7.0,7.0,29,1.0,NodD2,Nodulation,Nitrogen,Symbiosis,0.003581146,Regulatory
+NnrR,NnrR,2.66e-32,2.4e-31,0.333333333,0.695652174,0.450704225,16.0,23.0,48,1.0,NnrR,Nitrogen metabolism	,Nitrogen,Nitrogen metabolism	,0.037911565,Regulatory
+Cell_mobility,Cell_mobility,,,,,,,,160,,Cell_mobility,Cell mobility,Structural components,Cell mobility,0.013917412,Functional
+T6SS,T6SS,,,,,,,,43,,T6SS,T6SS system,Structural components,Secretion system,0.005262888,Functional
+Sulfur-1,Sulfur,,,,,,,,39,,Sulfur-1,Sulfur metabolism,Element homeostasis,Sulfur homeostasis,0.007182681,Functional
+Unchar-16,Unchar,,,,,,,,35,,Unchar-16,Unknown,Uncharacterized,Uncharacterized iModulons,0.00135265,Uncharacterized
+Copper,Copper,,,,,,,,24,,Copper,Metal related response,Element homeostasis,Metal homeostasis,0.008404169,Functional
+Unchar-17,Unchar,,,,,,,,16,,Unchar-17,Unknown,Uncharacterized,Uncharacterized iModulons,0.001925388,Uncharacterized
+Bacterial_chemotaxis,Bacterial_chemotaxis,,,,,,,,163,,Bacterial_chemotaxis,Multiple stress related response,Stress,Multiple stress,0.021139389,Functional
+BioR,BioR,3.27e-12,1.63e-11,0.161290323,0.833333333,0.27027027,5.0,6.0,31,1.0,BioR,Biotin metabolism,Amino acid,Metabolism of cofactors and vitamins,0.002983796,Regulatory
+Null-3,Null,,,,,,,,0,,Null-3,Null,Uncharacterized,Empty,0.021546893,Uncharacterized
+PhyR/EcfG-2,PhyR,2.36e-09,2.36e-09,0.357142857,0.138888889,0.2,5.0,36.0,14,1.0,PhyR-2,Thermal and dessication stress related response,Stress,Multiple stress,0.001081108,Regulatory
+Unchar-18,Unchar,,,,,,,,83,,Unchar-18,Unknown,Uncharacterized,Uncharacterized iModulons,0.000652242,Uncharacterized
+Unchar-19,Unchar,,,,,,,,13,,Unchar-19,Unknown,Uncharacterized,Uncharacterized iModulons,0.010224506,Uncharacterized
+Unchar-20,Unchar,,,,,,,,17,,Unchar-20,Unknown,Uncharacterized,Uncharacterized iModulons,0.004243101,Uncharacterized
+Sulfur-2,Sulfur,,,,,,,,4,,Sulfur-2,Sulfur metabolism,Element homeostasis,Sulfur homeostasis,0.004416555,Functional
+Unchar-21,Unchar,,,,,,,,18,,Unchar-21,Unknown,Uncharacterized,Uncharacterized iModulons,0.001667069,Uncharacterized
+Unchar-22,Unchar,,,,,,,,18,,Unchar-22,Unknown,Uncharacterized,Uncharacterized iModulons,0.000921874,Uncharacterized
+Unchar-23,Unchar,,,,,,,,10,,Unchar-23,Unknown,Uncharacterized,Uncharacterized iModulons,0.002898122,Uncharacterized
