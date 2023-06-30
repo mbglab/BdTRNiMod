@@ -21,7 +21,7 @@ The following data files are available in the data folder:
 - gene_info.csv: Descriptive characteristics of genes, including location, operon, and COG group.
 - M.csv: Gene coefficients for each iModulon.
 4. interim
-- bd.json.gz: The IcaData object of _B. diazoefficiens USDA110_ in our research.
+- bd.json.gz: The IcaData object of _B. diazoefficiens_ USDA110 in our research.
 - imodulon_table.csv: Detailed information on iModulons. 
 ## Scripts
 We performed iModulon analysis using the following scripts:
