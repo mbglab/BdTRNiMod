@@ -16,7 +16,7 @@ The following data files are available in the data folder:
 - TRN.csv:  The draft TRN of _B. diazoefficiens_ USDA110 was constructed based on the RegPrecise database and our manually collected data from the literature.
 3. processed_data
 - A.csv: Condition-specific activities for each iModulon.
-- curated_matadata.csv:  Experimental metadata with reference condition and project ID.
+- curated_metadata.csv:  Experimental metadata with reference condition and project ID.
 - functional_enrichments.csv: Functional annotations on iModulons. 
 - gene_info.csv: Descriptive characteristics of genes, including location, operon, and COG group.
 - M.csv: Gene coefficients for each iModulon.
@@ -24,7 +24,7 @@ The following data files are available in the data folder:
 - bd.json.gz: The IcaData object of _B. diazoefficiens USDA110 _in our research.
 - imodulon_table.csv: Detailed information on iModulons. 
 ## Scripts
-We perform the iModulon analysis using the following scripts:
+We performed iModulon analysis using the following scripts:
 
 1. 1_expression_QC.ipynb: Quality control of gene expression compendium.
 2. 2_optICA: To generate robust independent components for _B. diazoefficiens_ USDA110 gene expression compendium, execute the `run_ica.sh` script in this folder.
