@@ -6,7 +6,7 @@ The following data files are available in the data folder:
 
 1. raw_data
 - log2expset.csv: Gene expression compendium for _Bradyrhizobium diazoefficiens_ USDA110 with log2 transformation.
-- matadata_all.csv: Original experimental metadata (e.g. strain descriptions, medium etc.) information.
+- metadata_all.csv: Original experimental metadata (e.g. strain descriptions, medium etc.) information.
 2. external
 - eggNOG_annotations.txt: The eggNOG annotations of _B. diazoefficiens_ USDA110.
 - genome.fasta: The genome of _B. diazoefficiens_ USDA110 (GenBank: BA000040.2).
