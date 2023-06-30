@@ -1,0 +1,1305 @@
+,gene_id,gene_name,gene_ontology
+22,blr0725,ptsN,regulation of ion transmembrane transporter activity
+23,blr0725,ptsN,protein kinase activator activity
+39,blr7378,greA,DNA-templated transcription elongation
+40,blr7371,carA,carbamoyl-phosphate synthase complex
+41,blr7371,carA,arginine biosynthetic process
+42,blr7371,carA,cytoplasm
+43,blr7371,carA,nitrogen compound metabolic process
+73,bll7149,pal,cell outer membrane
+76,blr7000,fliG,bacterial-type flagellum-dependent cell motility
+77,blr7000,fliG,bacterial-type flagellum-dependent cell motility
+78,bll6995,mnmA,tRNA wobble position uridine thiolation
+79,bll6853,flgD,bacterial-type flagellum-dependent swarming motility
+87,bll6853,flgD,bacterial-type flagellum-dependent swarming motility
+88,bll2481,hemF,cytoplasm
+95,bll2481,hemF,coproporphyrinogen oxidase activity
+96,bll2481,hemF,protoporphyrinogen IX biosynthetic process
+135,bll2481,hemF,protein homodimerization activity
+136,bll4734,secF,protein transport
+137,bll4682,cysK,L-cysteine desulfhydrase activity
+159,bll4682,cysK,cysteine synthase activity
+177,bll4682,cysK,cysteine biosynthetic process
+178,bll4682,cysK,cytoplasm
+179,bll4682,cysK,cysteine biosynthetic process
+180,bll4682,cysK,cytoplasm
+193,bll4549,pncA,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"
+198,bll4549,pncA,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"
+199,bll0823,gyrB,"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity"
+206,bll0823,gyrB,DNA topological change
+207,bll0823,gyrB,"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity"
+230,bll0823,gyrB,DNA topological change
+231,bll4445,metC,cystathionine beta-lyase activity
+232,bll4445,metC,L-cysteine catabolic process to pyruvate
+233,blr4126,purN,cytoplasm
+248,blr4126,purN,cytosol
+270,blr4126,purN,'de novo' IMP biosynthetic process
+281,blr4126,purN,phosphoribosylglycinamide formyltransferase activity
+282,bll6875,flgC,bacterial-type flagellum-dependent swarming motility
+283,bll6875,flgC,bacterial-type flagellum-dependent swarming motility
+288,blr5751,gcvT,cytosol
+292,blr5751,gcvT,iron-sulfur cluster assembly
+293,bsl5417,secE,integral component of plasma membrane
+294,bsl5417,secE,protein transmembrane transporter activity
+295,bsl5417,secE,protein transport by the Sec complex
+313,bll5399,rplD,structural constituent of ribosome
+314,bll5397,rplB,cytosolic large ribosomal subunit
+315,bll5397,rplB,structural constituent of ribosome
+316,bll5397,rplB,RNA binding
+317,bll5397,rplB,cytoplasmic translation
+323,bll4963,rplM,negative regulation of translation
+324,bll4963,rplM,cytosolic large ribosomal subunit
+325,bll4963,rplM,structural constituent of ribosome
+327,bll4963,rplM,mRNA binding
+328,bll4963,rplM,ribosome
+329,bll4909,nuoI,plasma membrane respiratory chain complex I
+349,bll4909,nuoI,aerobic respiration
+350,bll4909,nuoI,NADH dehydrogenase activity
+351,bll4907,nuoK,NADH dehydrogenase (ubiquinone) activity
+382,bll4907,nuoK,plasma membrane respiratory chain complex I
+383,bll4907,nuoK,NADH dehydrogenase complex
+387,bll6504,miaA,tRNA dimethylallyltransferase activity
+388,bll6504,miaA,tRNA modification
+389,bll6610,rsmH,cytoplasm
+392,bll6610,rsmH,rRNA (cytosine-N4-)-methyltransferase activity
+393,bll6610,rsmH,rRNA base methylation
+394,bll6605,mraY,cell wall organization
+395,bll6605,mraY,"phosphotransferase activity, for other substituted phosphate groups"
+396,bll6605,mraY,cell wall macromolecule biosynthetic process
+424,bll6605,mraY,phospho-N-acetylmuramoyl-pentapeptide-transferase activity
+425,bll6605,mraY,integral component of plasma membrane
+444,bll6243,hutI,histidine catabolic process
+445,bll6243,hutI,imidazolonepropionase activity
+446,bll6873,flgG,bacterial-type flagellum-dependent swarming motility
+448,bll6873,flgG,bacterial-type flagellum-dependent swarming motility
+449,blr6884,flgF,bacterial-type flagellum-dependent swarming motility
+450,blr6884,flgF,bacterial-type flagellum-dependent swarming motility
+458,bll5826,fliL,bacterial-type flagellum-dependent swarming motility
+459,blr7578,galE,cytosol
+460,blr7578,galE,galactose catabolic process via UDP-galactose
+461,blr7578,galE,UDP-glucose 4-epimerase activity
+489,blr7578,galE,galactose catabolic process via UDP-galactose
+490,blr7578,galE,UDP-glucose 4-epimerase activity
+491,blr7578,galE,cytosol
+492,bll5905,thiD,thiamine biosynthetic process
+522,bll5905,thiD,cytosol
+523,bll5905,thiD,hydroxymethylpyrimidine kinase activity
+524,bll5905,thiD,phosphomethylpyrimidine kinase activity
+525,blr5706,rpsD,positive regulation of translational fidelity
+528,blr5706,rpsD,rRNA binding
+529,blr5706,rpsD,structural constituent of ribosome
+530,blr5706,rpsD,small ribosomal subunit
+531,blr1171,ctaD,electron transport coupled proton transport
+552,blr1171,ctaD,respiratory electron transport chain
+553,blr1171,ctaD,cytochrome-c oxidase activity
+554,blr1171,ctaD,aerobic respiration
+555,bll4291,accB,acetyl-CoA carboxylase activity
+556,bll4291,accB,fatty acid biosynthetic process
+599,bll4286,aat,leucyltransferase activity
+600,bll4286,aat,cytoplasm
+614,blr4212,minD,negative regulation of cell division
+620,blr4212,minD,ATP hydrolysis activity
+621,blr4212,minD,cytoplasmic side of plasma membrane
+622,blr4212,minD,cytosol
+678,blr4212,minD,ATP binding
+679,blr3972,guaB,IMP dehydrogenase activity
+680,blr3972,guaB,GTP biosynthetic process
+681,bll4076,rplI,cytosolic large ribosomal subunit
+682,bll4062,radA,recombinational repair
+683,blr4052,der,ribosomal large subunit assembly
+697,blr4052,der,ribosome binding
+723,blr3757,gor,glutathione metabolic process
+724,blr3757,gor,cell redox homeostasis
+725,blr3757,gor,flavin adenine dinucleotide binding
+740,blr3757,gor,cellular response to oxidative stress
+760,blr3757,gor,cytosol
+761,blr3757,gor,glutathione-disulfide reductase (NADPH) activity
+762,blr3700,flgE,bacterial-type flagellum-dependent swarming motility
+778,blr3700,flgE,bacterial-type flagellum-dependent swarming motility
+779,blr2398,hemC,heme biosynthetic process
+818,blr2398,hemC,hydroxymethylbilane synthase activity
+819,blr2398,hemC,cytoplasm
+881,bll0761,ubiE,methyltransferase activity
+882,bll0761,ubiE,ubiquinone biosynthetic process
+883,bll0761,ubiE,methyltransferase activity
+899,bll2327,pncB,nicotinate phosphoribosyltransferase activity
+900,bll2327,pncB,NAD salvage
+924,bll2327,pncB,cytosol
+925,bll2309,mobA,nucleotidyltransferase activity
+927,bll2309,mobA,bis(molybdopterin guanine dinucleotide)molybdenum biosynthetic process
+928,blr4809,trpD,tryptophan biosynthetic process
+929,blr4809,trpD,cytosol
+1042,blr4809,trpD,cytosol
+1043,blr4809,trpD,tryptophan biosynthetic process
+1047,blr1390,ftsE,transmembrane transport
+1048,blr1390,ftsE,plasma membrane
+1118,blr1390,ftsE,transmembrane transporter activity
+1119,bll6386,aroQ,3-dehydroquinate dehydratase activity
+1120,bll6386,aroQ,quinate catabolic process
+1121,bll5009,dcd,nucleobase-containing small molecule interconversion
+1122,bll5009,dcd,dCTP deaminase activity
+1126,blr1099,argF,ornithine carbamoyltransferase activity
+1127,blr1099,argF,citrulline biosynthetic process
+1128,blr1099,argF,arginine biosynthetic process via ornithine
+1129,blr3273,cobA,uroporphyrin-III C-methyltransferase activity
+1137,blr3273,cobA,siroheme biosynthetic process
+1138,bll0180,cobS,adenosylcobinamide-GDP ribazoletransferase activity
+1139,bll0180,cobS,cobalamin biosynthetic process
+1161,blr3166,gcl,isoleucine biosynthetic process
+1163,blr3166,gcl,valine biosynthetic process
+1164,blr3166,gcl,acetolactate synthase complex
+1206,blr3166,gcl,tartronate-semialdehyde synthase activity
+1207,blr3166,gcl,flavin adenine dinucleotide binding
+1208,bll3157,oxc,oxalyl-CoA decarboxylase activity
+1244,bll3157,oxc,thiamine pyrophosphate binding
+1245,bll3157,oxc,oxalate catabolic process
+1311,bll3157,oxc,fatty acid alpha-oxidation
+1312,bll3136,fdhF,nitrate reductase activity
+1313,bll3136,fdhF,"4 iron, 4 sulfur cluster binding"
+1321,bll3136,fdhF,molybdenum ion binding
+1329,bll3084,arsC,response to arsenic-containing substance
+1336,blr2955,ppc,cytosol
+1337,blr2955,ppc,phosphoenolpyruvate carboxylase activity
+1338,blr2896,paaI,CoA hydrolase activity
+1339,blr2893,paaC,cytosol
+1340,blr2893,paaC,phenylacetate catabolic process
+1341,blr4085,fabF,3-oxoacyl-[acyl-carrier-protein] synthase activity
+1342,blr4085,fabF,cytosol
+1389,blr4085,fabF,fatty acid biosynthetic process
+1390,blr4085,fabF,fatty acid biosynthetic process
+1391,blr4085,fabF,3-oxoacyl-[acyl-carrier-protein] synthase activity
+1392,blr4085,fabF,cytosol
+1393,bll2651,dxs,transketolase or transaldolase activity
+1394,blr0765,moeB,cytosol
+1395,blr0765,moeB,nucleotidyltransferase activity
+1396,blr0765,moeB,cytosol
+1397,blr0765,moeB,cytoplasm
+1405,blr2631,aroC,cytosol
+1406,blr2631,aroC,aromatic amino acid family biosynthetic process
+1413,blr2631,aroC,chorismate synthase activity
+1414,blr2631,aroC,chorismate biosynthetic process
+1415,blr2631,aroC,FMN binding
+1416,bll2624,pdxH,pyridoxamine-phosphate oxidase activity
+1417,bll2624,pdxH,pyridoxal phosphate biosynthetic process
+1418,blr7043,msrA,cellular response to oxidative stress
+1419,blr7043,msrA,peptide-methionine (S)-S-oxide reductase activity
+1420,blr7043,msrA,L-methionine-(S)-S-oxide reductase activity
+1425,blr7043,msrA,cytoplasm
+1426,bll0829,dnaN,DNA strand elongation involved in DNA replication
+1439,bll0827,recF,double-strand break repair
+1451,bll0827,recF,DNA synthesis involved in DNA repair
+1452,bll0822,murA,UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity
+1453,bll0822,murA,peptidoglycan biosynthetic process
+1456,blr0936,ispG,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity
+1457,blr0936,ispG,"isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway"
+1458,bll0785,nusA,cytosol
+1459,bll0785,nusA,transcription antitermination
+1460,bll0782,rbfA,ribosome biogenesis
+1472,bll0782,rbfA,cytosol
+1473,bll0782,rbfA,ribosomal small subunit binding
+1486,blr0770,fabB,cytosol
+1487,blr0770,fabB,3-oxoacyl-[acyl-carrier-protein] synthase activity
+1488,blr0770,fabB,fatty acid biosynthetic process
+1489,blr0745,trpB,tryptophan biosynthetic process
+1490,blr0745,trpB,cytoplasm
+1491,blr0654,hisF,imidazoleglycerol-phosphate synthase activity
+1492,blr0486,trmD,tRNA (guanine(37)-N(1))-methyltransferase activity
+1493,blr0486,trmD,cytosol
+1494,blr0486,trmD,tRNA N1-guanine methylation
+1503,bll0455,sucC,succinyl-CoA metabolic process
+1506,bll0455,sucC,succinate-CoA ligase (ADP-forming) activity
+1507,bll0455,sucC,succinate-CoA ligase complex
+1508,bll0455,sucC,cytosol
+1509,bll0455,sucC,tricarboxylic acid cycle
+1510,bll6927,hypE,peptidyl-S-carbamoyl-L-cysteine dehydration
+1516,bll6927,hypE,protein maturation
+1517,bll6927,hypE,protein maturation
+1518,bll6927,hypE,peptidyl-S-carbamoyl-L-cysteine dehydration
+1519,bll0242,recQ,bacterial nucleoid
+1560,bll0242,recQ,DNA duplex unwinding
+1561,bll0242,recQ,cytoplasm
+1562,bll0242,recQ,DNA recombination
+1564,bll0242,recQ,DNA repair
+1565,bll0242,recQ,four-way junction helicase activity
+1566,bll0242,recQ,3'-5' DNA helicase activity
+1593,bll0242,recQ,chromosome
+1594,bll0242,recQ,replisome
+1622,blr2030,nodI,plasma membrane
+1632,blr2027,nodC,extracellular matrix assembly
+1633,blr2027,nodC,extracellular polysaccharide biosynthetic process
+1634,blr2027,nodC,hyaluronan biosynthetic process
+1635,blr2027,nodC,integral component of plasma membrane
+1641,blr2027,nodC,hyaluronan synthase activity
+1642,blr7743,gltB,ammonia assimilation cycle
+1643,blr7743,gltB,glutamate biosynthetic process
+1644,blr7743,gltB,glutamate synthase activity
+1645,blr7743,gltB,oxidoreductase activity
+1646,blr7261,putA,proline catabolic process to glutamate
+1660,blr7261,putA,1-pyrroline-5-carboxylate dehydrogenase activity
+1661,blr7261,putA,cytoplasmic side of plasma membrane
+1662,blr7261,putA,identical protein binding
+1663,blr7377,carB,nitrogen compound metabolic process
+1664,blr7377,carB,glutamine metabolic process
+1665,blr7377,carB,cytoplasm
+1670,bll7310,arcA,arginine deiminase pathway
+1671,bll7310,arcA,arginine deiminase activity
+1672,bll6850,fliR,plasma membrane
+1673,bll6850,fliR,plasma membrane
+1674,blr8160,modA,outer membrane-bounded periplasmic space
+1675,blr8160,modA,outer membrane-bounded periplasmic space
+1676,bll6930,hypF,zinc ion binding
+1677,bll6930,hypF,protein maturation
+1678,bll6930,hypF,carboxyl- or carbamoyltransferase activity
+1679,bll6930,hypF,zinc ion binding
+1680,bll6930,hypF,carboxyl- or carbamoyltransferase activity
+1681,bll6930,hypF,protein maturation
+1682,bll2023,nodD1,regulation of DNA-templated transcription
+1683,bll2021,nodD2,regulation of DNA-templated transcription
+1684,bll6931,hypB,nickel cation binding
+1685,bll6931,hypB,zinc ion binding
+1692,bll6931,hypB,protein maturation
+1693,bll6931,hypB,GTPase activity
+1705,bll5412,rplJ,cytosolic large ribosomal subunit
+1706,bll5412,rplJ,translation
+1707,bll5412,rplJ,structural constituent of ribosome
+1708,bll5412,rplJ,large ribosomal subunit
+1711,bll5410,rpoB,DNA-directed 5'-3' RNA polymerase activity
+1728,bll5409,rpoC,DNA-directed 5'-3' RNA polymerase activity
+1729,bll5522,folE,tetrahydrobiopterin biosynthetic process
+1730,bll5522,folE,GTP cyclohydrolase I activity
+1731,bll5522,folE,zinc ion binding
+1734,bll5522,folE,GTP binding
+1738,bll5522,folE,cytoplasm
+1739,bll5400,rplC,structural constituent of ribosome
+1740,bsl5396,rpsS,ribosomal small subunit assembly
+1741,bsl5396,rpsS,cytosolic small ribosomal subunit
+1742,bsl5396,rpsS,structural constituent of ribosome
+1750,bll5394,rpsC,structural constituent of ribosome
+1751,bll5394,rpsC,cytosolic small ribosomal subunit
+1752,bll5387,rpsN,structural constituent of ribosome
+1753,bll5387,rpsN,small ribosomal subunit
+1754,bll5387,rpsN,translation
+1755,bll5381,rplO,structural constituent of ribosome
+1793,bll5381,rplO,cytosolic large ribosomal subunit
+1794,bll5378,rpsM,cytosol
+1795,bll5378,rpsM,small ribosomal subunit
+1801,bll5071,mscL,cellular water homeostasis
+1802,bll5071,mscL,ion transport
+1819,bll5071,mscL,mechanosensitive ion channel activity
+1820,bll5071,mscL,integral component of membrane
+1857,bll5028,nusB,cytosol
+1858,bll4962,rpsI,RNA binding
+1859,bll4962,rpsI,cytosolic small ribosomal subunit
+1862,bll4962,rpsI,small ribosomal subunit
+1863,bll4962,rpsI,structural constituent of ribosome
+1864,bll4911,nuoG,"4 iron, 4 sulfur cluster binding"
+1865,bll4735,secD,protein transport
+1866,bll4860,tsf,translation elongation factor activity
+1867,bll4860,tsf,translational elongation
+1868,bll4847,lpxB,lipid A biosynthetic process
+1901,bll4847,lpxB,phospholipid binding
+1902,bll4807,tpiA,triose-phosphate isomerase activity
+1903,bll4807,tpiA,glycolytic process
+1905,bll4807,tpiA,glyceraldehyde-3-phosphate biosynthetic process
+1906,bll4807,tpiA,glycerol catabolic process
+1907,bll4807,tpiA,cytosol
+1908,bll4807,tpiA,gluconeogenesis
+1909,blr4658,glk,cytosol
+1910,blr4658,glk,glycolytic process
+1911,blr4658,glk,glucokinase activity
+1912,blr4658,glk,cytosol
+1913,blr4658,glk,glucokinase activity
+1914,blr4658,glk,glycolytic process
+1915,bll4516,metG,methionine-tRNA ligase activity
+1916,bll4516,metG,methionyl-tRNA aminoacylation
+1917,bll8108,fmt,conversion of methionyl-tRNA to N-formyl-methionyl-tRNA
+1918,bll8108,fmt,cytosol
+1919,bll8108,fmt,methionyl-tRNA formyltransferase activity
+1920,blr8106,dapE,cytosol
+1921,blr8106,dapE,lysine biosynthetic process via diaminopimelate
+1922,blr8106,dapE,succinyl-diaminopimelate desuccinylase activity
+1923,blr8106,dapE,FtsZ-dependent cytokinesis
+1924,blr8106,dapE,succinyl-diaminopimelate desuccinylase activity
+1925,blr8106,dapE,cytosol
+1926,blr8106,dapE,FtsZ-dependent cytokinesis
+1927,blr8106,dapE,lysine biosynthetic process via diaminopimelate
+1928,blr8104,dapD,nucleotidyltransferase activity
+1929,blr8104,dapD,diaminopimelate biosynthetic process
+1930,blr8104,dapD,lysine biosynthetic process
+1941,blr0683,pyrF,orotidine-5'-phosphate decarboxylase activity
+1944,blr0683,pyrF,'de novo' pyrimidine nucleobase biosynthetic process
+1945,blr0683,pyrF,cytosol
+1946,blr1381,argH,argininosuccinate lyase activity
+1947,blr1381,argH,cytosol
+1990,blr1381,argH,arginine biosynthetic process via ornithine
+1991,blr0206,argJ,ornithine biosynthetic process
+1992,blr0206,argJ,acetyl-CoA:L-glutamate N-acetyltransferase activity
+1997,bll0522,argG,cytoplasm
+1998,bll0522,argG,argininosuccinate metabolic process
+1999,bll0522,argG,urea cycle
+2009,bll0522,argG,argininosuccinate synthase activity
+2010,bll0522,argG,arginine biosynthetic process
+2011,blr1256,hisD,histidine biosynthetic process
+2012,blr1256,hisD,histidinol dehydrogenase activity
+2013,blr1256,hisD,cytoplasm
+2014,blr1256,hisD,cytosol
+2015,bll5377,rpsK,translation
+2034,bll5377,rpsK,"maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+2035,bll5377,rpsK,ribosomal small subunit assembly
+2036,bll5377,rpsK,structural constituent of ribosome
+2037,bll5377,rpsK,cytosolic small ribosomal subunit
+2038,bll5377,rpsK,small ribosomal subunit rRNA binding
+2043,bll5377,rpsK,mRNA 5'-UTR binding
+2053,bll4607,glmS,fructose 6-phosphate metabolic process
+2054,bll4607,glmS,glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+2067,bll4607,glmS,cytosol
+2068,bll4607,glmS,UDP-N-acetylglucosamine metabolic process
+2069,bll4607,glmS,protein N-linked glycosylation
+2070,bll5416,nusG,cytosol
+2071,blr5037,hemB,heme biosynthetic process
+2072,blr5037,hemB,zinc ion binding
+2073,blr5037,hemB,porphobilinogen synthase activity
+2074,blr5037,hemB,cytosol
+2085,blr2095,bioB,"2 iron, 2 sulfur cluster binding"
+2086,blr2095,bioB,biotin biosynthetic process
+2087,blr2095,bioB,biotin synthase activity
+2088,blr2098,bioD,dethiobiotin synthase activity
+2089,blr2098,bioD,biotin biosynthetic process
+2091,blr2098,bioD,cytosol
+2092,bll0758,dut,dUMP biosynthetic process
+2093,bll0758,dut,magnesium ion binding
+2100,bll0758,dut,dUTP catabolic process
+2101,bll0758,dut,dUTP diphosphatase activity
+2105,blr0676,grpE,adenyl-nucleotide exchange factor activity
+2106,blr0676,grpE,unfolded protein binding
+2107,blr8161,modB,plasma membrane
+2119,blr8161,modB,plasma membrane
+2120,bll1419,metF,cytosol
+2133,bll1419,metF,FAD binding
+2134,bll1419,metF,methionine biosynthetic process
+2135,bll1419,metF,tetrahydrofolate interconversion
+2136,bll1419,metF,methylenetetrahydrofolate reductase (NAD(P)H) activity
+2137,bll1168,tldD,cytosol
+2138,blr3515,soxB,nucleotide catabolic process
+2139,blr3515,soxB,outer membrane-bounded periplasmic space
+2140,blr3515,soxB,nucleotide catabolic process
+2144,blr3515,soxB,outer membrane-bounded periplasmic space
+2145,bll0802,trpS,tryptophan-tRNA ligase activity
+2149,bll0802,trpS,cytosol
+2150,bll0802,trpS,tryptophanyl-tRNA aminoacylation
+2151,bll0795,miaB,tRNA methylthiolation
+2152,bll0795,miaB,N6-isopentenyladenosine methylthiotransferase activity
+2153,bll0795,miaB,methylthiotransferase activity
+2162,bll0795,miaB,"4 iron, 4 sulfur cluster binding"
+2163,bll0795,miaB,cytosol
+2164,blr0689,nth,"base-excision repair, AP site formation"
+2202,blr0689,nth,DNA N-glycosylase activity
+2203,bll0670,rsmI,enzyme-directed rRNA 2'-O-methylation
+2239,bll0632,rsmG,rRNA (guanine-N7-)-methyltransferase activity
+2240,bll0632,rsmG,cytosol
+2245,bll0477,dapF,lysine biosynthetic process via diaminopimelate
+2246,bll0477,dapF,cytosol
+2247,bll0477,dapF,diaminopimelate epimerase activity
+2248,bll0440,atpD,"proton-transporting ATP synthase activity, rotational mechanism"
+2249,bll0440,atpD,"proton-transporting ATP synthase complex, catalytic core F(1)"
+2253,blr0428,proB,cytosol
+2254,blr0428,proB,proline biosynthetic process
+2255,blr0428,proB,glutamate 5-kinase activity
+2256,blr0219,prmC,protein-glutamine N-methyltransferase activity
+2257,blr0219,prmC,peptidyl-glutamine methylation
+2268,bll5060,era,rRNA binding
+2269,bll5060,era,cytosol
+2270,bll5060,era,ribosomal small subunit binding
+2287,bll5060,era,ribosomal small subunit assembly
+2288,bll5061,rnc,RNA processing
+2289,bll5061,rnc,double-stranded RNA binding
+2290,bll5061,rnc,ribonuclease III activity
+2291,bll5061,rnc,regulation of gene expression
+2302,bll1200,hemA,5-aminolevulinate synthase activity
+2303,bll1200,hemA,heme biosynthetic process
+2304,blr4949,glnA,cytoplasm
+2305,blr4949,glnA,membrane
+2306,blr4949,glnA,nitrogen utilization
+2307,blr4949,glnA,glutamine biosynthetic process
+2309,blr4949,glnA,glutamate-ammonia ligase activity
+2310,blr4949,glnA,glutamine biosynthetic process
+2311,blr4949,glnA,cytoplasm
+2316,blr4949,glnA,membrane
+2317,blr4949,glnA,nitrogen utilization
+2318,blr4949,glnA,glutamate-ammonia ligase activity
+2325,bll7350,dnaG,"DNA replication, synthesis of RNA primer"
+2326,bll7350,dnaG,DNA primase activity
+2327,bll7350,dnaG,cytoplasm
+2333,blr7381,trxB,cell redox homeostasis
+2334,blr7381,trxB,thioredoxin-disulfide reductase activity
+2335,bll7965,serA,phosphoglycerate dehydrogenase activity
+2336,bll7965,serA,L-serine biosynthetic process
+2342,bll7408,glmM,phosphoglucosamine mutase activity
+2343,bll7408,glmM,UDP-N-acetylglucosamine biosynthetic process
+2346,bll7408,glmM,cytosol
+2347,bll7408,glmM,peptidoglycan biosynthetic process
+2418,bll7408,glmM,phosphomannomutase activity
+2419,bll6392,aroE,shikimate metabolic process
+2420,bll6392,aroE,NADP binding
+2421,bll6392,aroE,shikimate 3-dehydrogenase (NADP+) activity
+2422,bll6392,aroE,cytosol
+2477,bll6392,aroE,chorismate biosynthetic process
+2478,bll6392,aroE,chorismate biosynthetic process
+2479,bll6392,aroE,shikimate metabolic process
+2480,bll6392,aroE,cytosol
+2481,bll6392,aroE,shikimate 3-dehydrogenase (NADP+) activity
+2482,bll6392,aroE,NADP binding
+2642,bll7439,ychF,ATP hydrolysis activity
+2643,bll7439,ychF,cytoplasm
+2644,bll7440,pth,aminoacyl-tRNA hydrolase activity
+2645,blr7454,proC,pyrroline-5-carboxylate reductase activity
+2646,blr7454,proC,L-proline biosynthetic process
+2647,bll7457,hisS,cytosol
+2648,bll7457,hisS,histidine-tRNA ligase activity
+2650,bll7457,hisS,histidyl-tRNA aminoacylation
+2651,blr7467,rlmJ,rRNA base methylation
+2661,blr7467,rlmJ,23S rRNA (adenine(2030)-N(6))-methyltransferase activity
+2662,blr7467,rlmJ,cytosol
+2666,blr7470,uvrC,cellular response to DNA damage stimulus
+2667,blr7470,uvrC,excinuclease repair complex
+2668,blr7471,pgsA,glycerophospholipid biosynthetic process
+2669,blr7474,prmB,protein-glutamine N-methyltransferase activity
+2680,blr7474,prmB,cytosol
+2681,blr7474,prmB,peptidyl-glutamine methylation
+2685,blr7481,ileS,isoleucyl-tRNA aminoacylation
+2686,blr7481,ileS,cytosol
+2687,blr7481,ileS,isoleucine-tRNA ligase activity
+2702,blr7493,mutL,mismatch repair complex
+2703,blr7493,mutL,mismatch repair
+2709,blr7493,mutL,ATP hydrolysis activity
+2716,bll7514,lpxK,lipid A biosynthetic process
+2717,bll7514,lpxK,tetraacyldisaccharide 4'-kinase activity
+2718,bll7514,lpxK,plasma membrane
+2876,bll7514,lpxK,lipopolysaccharide core region biosynthetic process
+2877,bll7521,ubiA,"transferase activity, transferring alkyl or aryl (other than methyl) groups"
+2878,bll7521,ubiA,ubiquinone biosynthetic process
+2904,blr7525,hisG,ATP phosphoribosyltransferase activity
+2905,blr7525,hisG,histidine biosynthetic process
+2906,blr7248,mdlC,acetolactate synthase complex
+2907,blr7248,mdlC,acetolactate synthase activity
+2908,blr7248,mdlC,isoleucine biosynthetic process
+2909,blr7248,mdlC,flavin adenine dinucleotide binding
+2910,blr7248,mdlC,valine biosynthetic process
+2961,blr7248,mdlC,isoleucine biosynthetic process
+2962,blr7248,mdlC,acetolactate synthase complex
+2963,blr7248,mdlC,valine biosynthetic process
+2966,blr7248,mdlC,flavin adenine dinucleotide binding
+2967,blr7248,mdlC,acetolactate synthase activity
+2968,bll7789,htpG,unfolded protein binding
+2979,bll7789,htpG,response to heat
+2980,bll7789,htpG,ATP hydrolysis activity
+3137,bll7789,htpG,protein folding
+3138,bll7789,htpG,cytosol
+3139,bll7789,htpG,cellular response to DNA damage stimulus
+3140,blr8097,rnpA,"tRNA 3'-trailer cleavage, endonucleolytic"
+3141,blr8097,rnpA,ribonuclease P activity
+3142,blr8097,rnpA,3'-tRNA processing endoribonuclease activity
+3147,blr8097,rnpA,ribonuclease P complex
+3148,blr8098,yidC,membrane insertase activity
+3149,blr8098,yidC,protein insertion into membrane
+3150,blr8098,yidC,integral component of plasma membrane
+3151,blr8101,argB,arginine biosynthetic process
+3152,blr8101,argB,acetylglutamate kinase activity
+3153,bll8107,truA,pseudouridine synthase activity
+3154,bll8107,truA,tRNA pseudouridine synthesis
+3157,bll8109,def,peptide deformylase activity
+3158,bll8109,def,co-translational protein modification
+3159,bll8109,def,peptidyl-methionine modification
+3160,bll8109,def,N-terminal protein amino acid modification
+3179,blr8131,polA,DNA-directed DNA polymerase activity
+3180,blr8131,polA,double-strand break repair
+3181,blr8134,pyrE,pyrimidine nucleobase biosynthetic process
+3182,blr8134,pyrE,UMP biosynthetic process
+3203,blr8134,pyrE,orotate phosphoribosyltransferase activity
+3204,blr8150,lepA,positive regulation of translation
+3205,blr8150,lepA,ribosome binding
+3206,blr8170,map,metalloaminopeptidase activity
+3254,blr8170,map,protein initiator methionine removal
+3255,blr8170,map,cytosol
+3256,blr8170,map,metalloaminopeptidase activity
+3257,bll6242,hutH,histidine catabolic process
+3258,bll6242,hutH,ammonia-lyase activity
+3303,bll6242,hutH,histidine ammonia-lyase activity
+3304,blr3840,dctA,L-aspartate transmembrane transport
+3305,blr3840,dctA,succinate transmembrane transporter activity
+3306,blr3840,dctA,transmembrane transporter activity
+3307,blr3840,dctA,plasma membrane
+3308,blr3840,dctA,fumarate transmembrane transporter activity
+3309,blr3840,dctA,membrane
+3317,blr3840,dctA,malate:proton symporter activity
+3318,blr3840,dctA,malate:proton symporter activity
+3319,blr3840,dctA,transmembrane transporter activity
+3320,blr3840,dctA,L-aspartate transmembrane transport
+3321,blr3840,dctA,membrane
+3331,blr3840,dctA,succinate transmembrane transporter activity
+3332,blr3840,dctA,plasma membrane
+3333,blr3840,dctA,fumarate transmembrane transporter activity
+3334,bll0504,leuB,isocitrate dehydrogenase (NAD+) activity
+3358,bll0504,leuB,isocitrate metabolic process
+3359,bll0504,leuB,tricarboxylic acid cycle
+3360,bll0449,lpdA,flavin adenine dinucleotide binding
+3366,bll0449,lpdA,dihydrolipoyl dehydrogenase activity
+3367,bll0449,lpdA,flavin adenine dinucleotide binding
+3368,bll0449,lpdA,dihydrolipoyl dehydrogenase activity
+3369,bll6591,ligA,cytosol
+3384,bll6591,ligA,DNA ligase (NAD+) activity
+3385,bll6591,ligA,"base-excision repair, DNA ligation"
+3386,bll6593,recN,response to radiation
+3387,bll6593,recN,double-strand break repair via homologous recombination
+3410,bll6593,recN,SOS response
+3411,blr0166,ftsZ,cell division
+3413,blr0166,ftsZ,cytoplasm
+3414,blr0166,ftsZ,GTP binding
+3415,blr0166,ftsZ,GTPase activity
+3416,blr0166,ftsZ,cell division site
+3423,blr0166,ftsZ,cell division site
+3424,blr0166,ftsZ,GTPase activity
+3433,blr0166,ftsZ,GTP binding
+3434,blr0166,ftsZ,cytoplasm
+3435,blr0166,ftsZ,cell division
+3436,bll6597,ftsA,cell division site
+3443,bll6597,ftsA,cell division
+3444,bll6597,ftsA,cytoplasmic side of plasma membrane
+3445,bll6600,murB,cell wall organization
+3449,bll6600,murB,UDP-N-acetylmuramate dehydrogenase activity
+3450,bll6600,murB,flavin adenine dinucleotide binding
+3451,bll6600,murB,cytosol
+3478,bll6497,ilvC,ketol-acid reductoisomerase activity
+3479,bll6497,ilvC,valine biosynthetic process
+3480,bll6497,ilvC,isoleucine biosynthetic process
+3488,bll6497,ilvC,cytosol
+3489,blr6505,serB,cytoplasm
+3505,blr6505,serB,dephosphorylation
+3506,blr6505,serB,magnesium ion binding
+3518,blr6505,serB,L-serine biosynthetic process
+3519,bll6680,bfr,iron ion binding
+3544,bll6680,bfr,intracellular sequestering of iron ion
+3545,bll6680,bfr,ferroxidase activity
+3546,bll6680,bfr,heme binding
+3656,bll6680,bfr,cytosol
+3657,blr6761,pgl,6-phosphogluconolactonase activity
+3658,blr6761,pgl,"pentose-phosphate shunt, oxidative branch"
+3668,blr6761,pgl,cytoplasm
+3669,blr6768,glgB,glycogen biosynthetic process
+3733,blr6768,glgB,carbohydrate metabolic process
+3734,blr6768,glgB,cytosol
+3735,blr6768,glgB,"1,4-alpha-glucan branching enzyme activity"
+3736,blr6768,glgB,cytoplasm
+3764,bll6778,kdpB,P-type potassium transmembrane transporter activity
+3765,bll6779,kdpA,P-type potassium transmembrane transporter activity
+3766,bll6779,kdpA,potassium ion transmembrane transport
+3767,bll6779,kdpA,plasma membrane
+3768,blr1735,hypC,protein maturation
+3769,blr1735,hypC,carbon dioxide binding
+3811,blr1735,hypC,iron ion binding
+3812,bll6950,modD,nicotinate-nucleotide diphosphorylase (carboxylating) activity
+3813,bll6950,modD,NAD biosynthetic process
+3814,bll6950,modD,quinolinate catabolic process
+3815,bll6950,modD,cytoplasm
+3818,bll6830,uxuA,manganese ion binding
+3819,bll6830,uxuA,mannonate dehydratase activity
+3820,bll6830,uxuA,ferrous iron binding
+3821,bll6830,uxuA,D-glucuronate catabolic process
+3830,bll6851,flhA,bacterial-type flagellum assembly
+3835,bll6851,flhA,plasma membrane
+3836,bll6851,flhA,bacterial-type flagellum assembly
+3837,bll6851,flhA,plasma membrane
+3838,bll6857,flgK,bacterial-type flagellum assembly
+3839,bll7010,ssuD,alkanesulfonate catabolic process
+3855,bll7010,ssuD,alkanesulfonate monooxygenase activity
+3861,bll6876,flgB,bacterial-type flagellum-dependent swarming motility
+3862,bll6876,flgB,bacterial-type flagellum-dependent swarming motility
+3863,bll6877,flhB,plasma membrane
+3864,bll6877,flhB,plasma membrane
+3865,bll6882,motA,plasma membrane
+3866,bll6882,motA,bacterial-type flagellum-dependent swarming motility
+3867,bll6882,motA,integral component of membrane
+3868,blr6885,fliI,"proton-transporting ATP synthase activity, rotational mechanism"
+3869,blr6885,fliI,"proton-transporting ATP synthase complex, catalytic core F(1)"
+3870,blr6885,fliI,"proton-transporting ATP synthase activity, rotational mechanism"
+3871,blr6885,fliI,"proton-transporting ATP synthase complex, catalytic core F(1)"
+3872,blr7038,napA,molybdenum ion binding
+3873,blr7038,napA,"4 iron, 4 sulfur cluster binding"
+3874,blr7038,napA,nitrate reductase activity
+3875,blr7044,msrB,cytoplasm
+3876,blr7044,msrB,peptide-methionine (R)-S-oxide reductase activity
+3954,bll7073,exbB,protein import
+3955,bll7073,exbB,integral component of plasma membrane
+3958,bll7073,exbB,integral component of plasma membrane
+4011,bll7073,exbB,protein import
+4012,blr2436,glpD,glycerol-3-phosphate dehydrogenase (quinone) activity
+4013,blr2436,glpD,glycerol-3-phosphate catabolic process
+4014,blr2436,glpD,glycerol-3-phosphate dehydrogenase (quinone) activity
+4078,blr2436,glpD,glycerol-3-phosphate catabolic process
+4079,bll7154,tolR,integral component of plasma membrane
+4083,bll7155,tolQ,integral component of plasma membrane
+4084,bll7155,tolQ,protein import
+4152,blr2311,mobB,nucleotidyltransferase activity
+4153,bll2399,hemE,uroporphyrinogen decarboxylase activity
+4191,bll2399,hemE,protoporphyrinogen IX biosynthetic process from glutamate
+4192,bll2399,hemE,heme biosynthetic process
+4235,bll2399,hemE,cytosol
+4236,blr2536,glyS,cytosol
+4237,bll2540,nadC,NAD biosynthetic process
+4238,bll2540,nadC,quinolinate catabolic process
+4239,bll2540,nadC,cytoplasm
+4240,bll2540,nadC,nicotinate-nucleotide diphosphorylase (carboxylating) activity
+4332,bll2542,nadA,"4 iron, 4 sulfur cluster binding"
+4333,bll2542,nadA,'de novo' NAD biosynthetic process from aspartate
+4334,bll2542,nadA,quinolinate synthetase A activity
+4353,bll2542,nadA,cytosol
+4354,blr2587,cbbX,ATP hydrolysis activity
+4355,blr0149,cyoA,ATP synthesis coupled electron transport
+4356,blr0149,cyoA,cytochrome-c oxidase activity
+4357,blr0149,cyoA,cytochrome-c oxidase activity
+4397,blr0149,cyoA,ATP synthesis coupled electron transport
+4398,blr0151,cyoC,cytochrome o ubiquinol oxidase complex
+4399,blr0151,cyoC,oxidoreduction-driven active transmembrane transporter activity
+4400,blr0151,cyoC,aerobic respiration
+4401,blr0151,cyoC,cytochrome bo3 ubiquinol oxidase activity
+4402,blr0151,cyoC,integral component of plasma membrane
+4403,blr0151,cyoC,electron transport coupled proton transport
+4429,blr0151,cyoC,electron transfer activity
+4430,blr0151,cyoC,aerobic electron transport chain
+4436,blr0151,cyoC,cytochrome o ubiquinol oxidase complex
+4437,blr0151,cyoC,cytochrome bo3 ubiquinol oxidase activity
+4456,blr0151,cyoC,oxidoreduction-driven active transmembrane transporter activity
+4457,blr0151,cyoC,integral component of plasma membrane
+4463,blr0151,cyoC,aerobic electron transport chain
+4464,blr0151,cyoC,electron transport coupled proton transport
+4465,blr0151,cyoC,electron transfer activity
+4466,blr0151,cyoC,aerobic respiration
+4476,blr0152,cyoD,cytochrome bo3 ubiquinol oxidase activity
+4477,blr0152,cyoD,cytochrome o ubiquinol oxidase complex
+4478,blr0152,cyoD,proton transmembrane transporter activity
+4479,blr0152,cyoD,integral component of plasma membrane
+4480,blr0152,cyoD,aerobic electron transport chain
+4481,blr0152,cyoD,electron transport coupled proton transport
+4482,blr0152,cyoD,aerobic electron transport chain
+4486,blr0152,cyoD,cytochrome bo3 ubiquinol oxidase activity
+4487,blr0152,cyoD,cytochrome o ubiquinol oxidase complex
+4488,blr0152,cyoD,proton transmembrane transporter activity
+4493,blr0152,cyoD,integral component of plasma membrane
+4494,blr0152,cyoD,electron transport coupled proton transport
+4507,blr2996,eutC,ethanolamine ammonia-lyase complex
+4508,blr2996,eutC,cobalamin binding
+4509,blr2890,paaX,DNA-templated transcription
+4519,bll4914,nuoE,NADH dehydrogenase activity
+4520,bll4914,nuoE,plasma membrane respiratory chain complex I
+4521,blr3167,hyi,glyoxylate metabolic process
+4562,blr3167,hyi,hydroxypyruvate isomerase activity
+4563,blr3261,cobW,cytoplasm
+4572,blr3261,cobW,cytosol
+4573,blr6784,dapA,cytosol
+4574,blr6784,dapA,4-hydroxy-tetrahydrodipicolinate synthase activity
+4575,blr6784,dapA,4-hydroxy-tetrahydrodipicolinate synthase activity
+4576,blr6784,dapA,cytosol
+4577,bll6121,soxC,sulfite oxidase activity
+4578,bll6121,soxC,molybdopterin cofactor binding
+4587,bll6121,soxC,heme binding
+4588,bll6121,soxC,sulfur compound metabolic process
+4589,bll3752,moaA,Mo-molybdopterin cofactor biosynthetic process
+4660,bll3752,moaA,cyclic pyranopterin monophosphate synthase activity
+4661,bll3752,moaA,"GTP 3',8'-cyclase activity"
+4662,blr3790,cysS,ATP binding
+4692,blr3790,cysS,cysteinyl-tRNA aminoacylation
+4693,blr3790,cysS,cysteine-tRNA ligase activity
+4694,blr3790,cysS,cytoplasm
+4695,blr3790,cysS,cytosol
+4703,blr3882,rnz,tRNA 3'-trailer cleavage
+4725,blr3882,rnz,3'-tRNA processing endoribonuclease activity
+4726,bll4060,purF,purine nucleotide biosynthetic process
+4737,bll4060,purF,amidophosphoribosyltransferase activity
+4738,bsl4078,rpsR,structural constituent of ribosome
+4739,bsl4078,rpsR,small ribosomal subunit rRNA binding
+4740,bsl4078,rpsR,cytosolic small ribosomal subunit
+4741,bll4079,rpsF,cytosolic small ribosomal subunit
+4742,bll4079,rpsF,small ribosomal subunit rRNA binding
+4743,bll4079,rpsF,small ribosomal subunit
+4765,bll4079,rpsF,structural constituent of ribosome
+4766,blr4082,fabD,cytosol
+4767,blr4082,fabD,fatty acid biosynthetic process
+4790,blr4082,fabD,[acyl-carrier-protein] S-malonyltransferase activity
+4791,blr4088,gmk,cytosol
+4792,blr4088,gmk,guanylate kinase activity
+4793,bll4102,rsmA,cytosol
+4794,bll4102,rsmA,"rRNA (adenine-N6,N6-)-dimethyltransferase activity"
+4797,bll4102,rsmA,rRNA methylation
+4798,blr4119,ndk,nucleoside diphosphate kinase activity
+4807,blr4119,ndk,pyrimidine nucleotide metabolic process
+4808,blr4119,ndk,purine nucleotide metabolic process
+4809,blr4143,aspS,aspartate-tRNA ligase activity
+4816,blr4143,aspS,aspartyl-tRNA aminoacylation
+4817,blr4158,kynA,heme binding
+4818,blr4158,kynA,"tryptophan 2,3-dioxygenase activity"
+4819,blr4158,kynA,tryptophan catabolic process to acetyl-CoA
+4820,blr4158,kynA,heme binding
+4830,blr4158,kynA,tryptophan catabolic process to kynurenine
+4831,blr4158,kynA,"tryptophan 2,3-dioxygenase activity"
+4832,blr4159,kynU,anthranilate metabolic process
+4833,blr4159,kynU,tryptophan catabolic process to kynurenine
+4834,blr4159,kynU,kynureninase activity
+4835,blr4159,kynU,cytoplasm
+4836,bsr4213,minE,division septum site selection
+4837,bsr4213,minE,regulation of division septum assembly
+4838,bsr4213,minE,plasma membrane
+4845,bll4330,tyrS,tRNA aminoacylation
+4846,bll4330,tyrS,cytosol
+4847,bll4330,tyrS,tyrosine-tRNA ligase activity
+4848,bsr4491,hfq,RNA binding
+4849,bsr4491,hfq,"regulation of translation, ncRNA-mediated"
+4850,bsr4491,hfq,regulation of RNA stability
+4851,bsr4491,hfq,cytosol
+4852,blr4495,queC,queuosine biosynthetic process
+4853,bll4386,efp,cytoplasm
+4854,bll4386,efp,translation elongation factor activity
+4855,bll4518,tmk,dUDP biosynthetic process
+4856,bll4518,tmk,dTTP biosynthetic process
+4857,bll4518,tmk,thymidylate kinase activity
+4858,bll4518,tmk,dTDP biosynthetic process
+4859,bll4518,tmk,cytoplasm
+4860,bll4518,tmk,cytosol
+4861,bll4518,tmk,uridylate kinase activity
+4862,blr4575,rimO,aspartic acid methylthiotransferase activity
+4863,blr4575,rimO,cytosol
+4868,blr4575,rimO,"4 iron, 4 sulfur cluster binding"
+4880,bll4601,mfd,"transcription-coupled nucleotide-excision repair, DNA damage recognition"
+4881,bll4601,mfd,regulation of DNA-templated transcription
+4882,bll4601,mfd,DNA binding
+4883,bll4601,mfd,RNA polymerase core enzyme binding
+4895,bll4601,mfd,DNA translocase activity
+4896,bll4601,mfd,RNA polymerase core enzyme binding
+4897,bll4601,mfd,DNA translocase activity
+4898,bll4601,mfd,DNA binding
+4899,bll4601,mfd,"transcription-coupled nucleotide-excision repair, DNA damage recognition"
+4900,bll4601,mfd,regulation of DNA-templated transcription
+4901,blr4603,recG,DNA repair
+4925,blr4603,recG,DNA helicase activity
+4926,blr0746,trpA,tryptophan biosynthetic process
+4927,blr0746,trpA,cytosol
+4928,blr0746,trpA,tryptophan synthase activity
+4929,blr0594,trxA,cytoplasm
+4930,blr0594,trxA,cell redox homeostasis
+4931,blr0594,trxA,oxidoreductase activity
+4932,blr0594,trxA,protein-disulfide reductase activity
+4937,blr0594,trxA,cytosol
+4938,blr0594,trxA,protein-disulfide reductase activity
+5035,blr0594,trxA,cytosol
+5036,blr0594,trxA,cytoplasm
+5037,blr0594,trxA,cell redox homeostasis
+5038,blr0594,trxA,oxidoreductase activity
+5039,blr0762,mutM,base-excision repair
+5087,blr0762,mutM,DNA-(apurinic or apyrimidinic site) endonuclease activity
+5098,blr0762,mutM,"8-oxo-7,8-dihydroguanine DNA N-glycosylase activity"
+5099,blr0762,mutM,DNA N-glycosylase activity
+5113,blr0778,katG,catalase activity
+5114,blr0778,katG,heme binding
+5138,blr0778,katG,cytosol
+5144,blr0778,katG,hydrogen peroxide catabolic process
+5145,blr0778,katG,cellular response to hydrogen peroxide
+5146,bll0779,pnp,cytosol
+5172,bll0779,pnp,RNA catabolic process
+5173,bll0779,pnp,polyribonucleotide nucleotidyltransferase activity
+5174,bll0779,pnp,3'-5'-exoribonuclease activity
+5175,bsl0780,rpsO,cytosolic small ribosomal subunit
+5176,bll0781,truB,tRNA modification
+5208,bll0781,truB,mRNA pseudouridine synthesis
+5209,bll0781,truB,pseudouridine synthase activity
+5210,bll0783,infB,cytoplasm
+5216,bll0783,infB,translation initiation factor activity
+5217,bll0783,infB,translational initiation
+5232,bll0786,rimP,cytosol
+5233,bll0786,rimP,translation
+5234,bll0786,rimP,ribosomal small subunit assembly
+5235,bll0791,lnt,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"
+5236,blr4439,pbpC,penicillin binding
+5237,blr4439,pbpC,peptidoglycan biosynthetic process
+5244,blr4439,pbpC,response to antibiotic
+5245,blr4439,pbpC,peptidoglycan glycosyltransferase activity
+5246,bll0924,mutS,mismatched DNA binding
+5272,bll0924,mutS,double-stranded DNA binding
+5273,bll0924,mutS,cytosol
+5352,bll0924,mutS,mismatch repair
+5353,blr0925,pcaF,acetyl-CoA C-acyltransferase activity
+5354,blr0925,pcaF,phenylacetate catabolic process
+5355,blr0925,pcaF,fatty acid beta-oxidation
+5370,bll0830,dnaA,DNA replication origin binding
+5371,bll0830,dnaA,DNA replication initiation
+5372,bll0830,dnaA,plasma membrane
+5378,bll0830,dnaA,DNA replication
+5379,bsl0832,rpsT,small ribosomal subunit
+5382,bsl0832,rpsT,small ribosomal subunit rRNA binding
+5383,blr0961,mtnA,S-methyl-5-thioribose-1-phosphate isomerase activity
+5384,blr0961,mtnA,L-methionine salvage from methylthioadenosine
+5385,bll1101,apaG,error-free translesion synthesis
+5386,blr1120,xylA,D-xylose catabolic process
+5387,blr1120,xylA,xylose isomerase activity
+5388,bll0265,mdcB,prosthetic group biosynthetic process
+5389,bll0265,mdcB,triphosphoribosyl-dephospho-CoA synthase activity
+5394,bll0265,mdcB,prosthetic group biosynthetic process
+5395,bll0265,mdcB,triphosphoribosyl-dephospho-CoA synthase activity
+5396,blr0573,acs,propionate-CoA ligase activity
+5397,blr1316,rnhA,"RNA phosphodiester bond hydrolysis, endonucleolytic"
+5399,blr1316,rnhA,RNA-DNA hybrid ribonuclease activity
+5400,blr1316,rnhA,"DNA replication, removal of RNA primer"
+5401,blr1225,phnK,organic phosphonate catabolic process
+5402,blr1228,phnN,"ribose 1,5-bisphosphate phosphokinase activity"
+5403,blr1228,phnN,5-phosphoribose 1-diphosphate biosynthetic process
+5404,blr1228,phnN,NAD biosynthetic process
+5405,blr1228,phnN,cytosol
+5411,blr4838,gltX,cytosol
+5412,blr4838,gltX,glutamyl-tRNA aminoacylation
+5413,blr4838,gltX,glutamate-tRNA ligase activity
+5421,blr1383,lysA,lysine biosynthetic process via diaminopimelate
+5422,blr1383,lysA,diaminopimelate decarboxylase activity
+5423,blr1410,glpK,glycerol catabolic process
+5424,blr1410,glpK,glycerol kinase activity
+5425,blr1410,glpK,glycerol metabolic process
+5426,blr1410,glpK,"phosphotransferase activity, alcohol group as acceptor"
+5434,blr1410,glpK,cytosol
+5435,blr1410,glpK,phosphorylation
+5436,blr1410,glpK,glycerol kinase activity
+5437,blr1410,glpK,glycerol metabolic process
+5438,bll1418,metH,methionine synthase activity
+5449,bll1418,metH,cytosol
+5450,bll1418,metH,methionine biosynthetic process
+5451,bsl1446,infA,cytosol
+5452,bsl1446,infA,ribosome binding
+5453,bll4749,tatC,proton motive force dependent protein transmembrane transporter activity
+5454,bll4749,tatC,TAT protein transport complex
+5455,bll4749,tatC,protein transport by the Tat complex
+5456,bll4749,tatC,intracellular protein transmembrane transport
+5465,bll4783,pdhA,acetyl-CoA biosynthetic process from pyruvate
+5466,bll4783,pdhA,pyruvate dehydrogenase (acetyl-transferring) activity
+5467,bll4794,eno,phosphopyruvate hydratase activity
+5468,bll4794,eno,phosphopyruvate hydratase complex
+5469,bll4794,eno,glycolytic process
+5470,bll4800,kdsA,monosaccharide biosynthetic process
+5471,bll4800,kdsA,3-deoxy-8-phosphooctulonate synthase activity
+5478,bll4800,kdsA,cytosol
+5479,bll4800,kdsA,keto-3-deoxy-D-manno-octulosonic acid biosynthetic process
+5480,bll4683,tgt,queuosine biosynthetic process
+5481,bll4683,tgt,cytosol
+5482,bll4683,tgt,tRNA wobble guanine modification
+5515,bll4683,tgt,cytoplasm
+5516,bll4806,secG,plasma membrane
+5517,bll4806,secG,protein transport by the Sec complex
+5518,bll4806,secG,intracellular protein transmembrane transport
+5531,bll4689,queA,tRNA wobble guanine modification
+5532,bll4689,queA,S-adenosylmethionine:tRNA ribosyltransferase-isomerase activity
+5562,bll4689,queA,queuosine biosynthetic process
+5563,bll4696,gyrA,cytoplasm
+5564,bll4696,gyrA,"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity"
+5565,bll4696,gyrA,DNA topological change
+5566,bll4696,gyrA,"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex"
+5572,bll4696,gyrA,ATP binding
+5573,bll4696,gyrA,DNA binding
+5574,bll4696,gyrA,ATP binding
+5575,bll4696,gyrA,cytoplasm
+5576,bll4696,gyrA,"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity"
+5577,bll4696,gyrA,DNA binding
+5611,bll4696,gyrA,DNA topological change
+5612,bll4696,gyrA,"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex"
+5613,blr4727,trmFO,tRNA methylation
+5637,blr4727,trmFO,flavin adenine dinucleotide binding
+5661,blr4727,trmFO,cytosol
+5662,blr4727,trmFO,tRNA wobble uridine modification
+5663,bll4855,dxr,"isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process"
+5664,bll4855,dxr,manganese ion binding
+5665,bll4855,dxr,1-deoxy-D-xylulose-5-phosphate reductoisomerase activity
+5666,bll4855,dxr,NADPH binding
+5685,bll4858,frr,cytoplasm
+5686,bll4858,frr,cytoplasmic translational termination
+5690,bll4858,frr,translation
+5691,bll4858,frr,ribosomal large subunit binding
+5700,bll4859,pyrH,UMP kinase activity
+5705,bll4859,pyrH,UDP biosynthetic process
+5706,bll4859,pyrH,cytosol
+5707,bll4746,surE,UMP catabolic process
+5708,bll4746,surE,3'-nucleotidase activity
+5714,bll4746,surE,exopolyphosphatase activity
+5715,bll4746,surE,5'-nucleotidase activity
+5722,bll4906,nuoL,NADH dehydrogenase activity
+5723,bll4906,nuoL,electron transport coupled proton transport
+5771,bll4910,nuoH,aerobic respiration
+5772,bll4910,nuoH,NADH dehydrogenase activity
+5773,blr4926,pepT,cytosol
+5779,blr4926,pepT,tripeptide aminopeptidase activity
+5780,bll4943,clpX,ATP binding
+5781,bll4943,clpX,cell division
+5782,bll4943,clpX,HslUV protease complex
+5783,bll4943,clpX,ATP hydrolysis activity
+5784,bll4943,clpX,proteolysis involved in protein catabolic process
+5792,bll4945,tig,ribosome binding
+5793,bll4945,tig,chaperone-mediated protein folding
+5794,bll4945,tig,protein folding chaperone
+5795,bll4945,tig,peptidyl-prolyl cis-trans isomerase activity
+5796,bll4945,tig,'de novo' cotranslational protein folding
+5797,bll4945,tig,protein unfolding
+5798,bll0861,dinB,DNA-directed DNA polymerase activity
+5799,bll0861,dinB,SOS response
+5800,bll0861,dinB,error-prone translesion synthesis
+5801,bll5031,ribD,diaminohydroxyphosphoribosylaminopyrimidine deaminase activity
+5802,bll5087,gatB,glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity
+5803,bll5087,gatB,glutaminyl-tRNAGln biosynthesis via transamidation
+5804,bsl5090,gatC,glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity
+5805,bsl5090,gatC,glutaminyl-tRNAGln biosynthesis via transamidation
+5806,blr5101,plsY,plasma membrane
+5807,blr5112,rnr,cytosol
+5808,bsr5117,rpmG,structural constituent of ribosome
+5809,bsr5117,rpmG,large ribosomal subunit
+5810,bsr5117,rpmG,cytosolic large ribosomal subunit
+5812,blr5257,lipB,lipoyl(octanoyl) transferase activity
+5813,blr5257,lipB,protein lipoylation
+5814,bll3085,arsB,integral component of membrane
+5815,bll3085,arsB,integral component of plasma membrane
+5818,bll5375,rplQ,cytosolic large ribosomal subunit
+5819,bll5375,rplQ,large ribosomal subunit
+5820,bll5375,rplQ,structural constituent of ribosome
+5821,bsl5382,rpmD,cytosolic large ribosomal subunit
+5822,bll5383,rpsE,structural constituent of ribosome
+5823,bll5383,rpsE,cytosolic small ribosomal subunit
+5824,bll5383,rpsE,translation
+5825,bll5384,rplR,5S rRNA binding
+5826,bll5384,rplR,cytosolic large ribosomal subunit
+5827,bll5385,rplF,cytosolic large ribosomal subunit
+5828,bll5385,rplF,cytoplasmic translation
+5829,bll5385,rplF,structural constituent of ribosome
+5830,bll5386,rpsH,cytosolic small ribosomal subunit
+5831,bll5386,rpsH,structural constituent of ribosome
+5832,bll5388,rplE,RNA binding
+5833,bll5388,rplE,cytosolic large ribosomal subunit
+5837,bll5388,rplE,structural constituent of ribosome
+5838,bll5389,rplX,cytosolic large ribosomal subunit
+5839,bll5389,rplX,translation
+5840,bll5390,rplN,large ribosomal subunit rRNA binding
+5846,bll5390,rplN,cytosolic large ribosomal subunit
+5847,bll5390,rplN,structural constituent of ribosome
+5848,bsl5391,rpsQ,cytosolic small ribosomal subunit
+5849,bsl5391,rpsQ,structural constituent of ribosome
+5850,bsl5392,rpmC,cytosolic large ribosomal subunit
+5851,bll5393,rplP,rRNA binding
+5852,bll5393,rplP,cytosolic large ribosomal subunit
+5853,bll5393,rplP,structural constituent of ribosome
+5854,bll5395,rplV,structural constituent of ribosome
+5855,bll5395,rplV,large ribosomal subunit
+5856,bll5395,rplV,cytosolic large ribosomal subunit
+5889,bll5395,rplV,ribosome assembly
+5890,bll5401,rpsJ,structural constituent of ribosome
+5891,bll5401,rpsJ,small ribosomal subunit
+5892,bll5402,tuf,translation elongation factor activity
+5893,bll5402,tuf,translational elongation
+5979,bll5403,fusA,ribosome disassembly
+5980,bll5403,fusA,cytosol
+5981,bll5404,rpsG,mRNA binding
+5982,bll5404,rpsG,ribosomal small subunit assembly
+5983,bll5404,rpsG,rRNA binding
+5989,bll5404,rpsG,structural constituent of ribosome
+5990,bll5404,rpsG,translation
+5991,bll5404,rpsG,cytosolic small ribosomal subunit
+5992,bll5404,rpsG,ribosome
+6003,bll5405,rpsL,translation
+6004,bll5405,rpsL,ribosome
+6005,bll5405,rpsL,structural constituent of ribosome
+6050,bll5411,rplL,structural constituent of ribosome
+6051,bll5411,rplL,translation
+6052,bll5411,rplL,mRNA binding
+6053,bll5411,rplL,cytosolic large ribosomal subunit
+6054,bll5414,rplA,cytosolic large ribosomal subunit
+6055,bll5414,rplA,maturation of LSU-rRNA
+6056,bll5414,rplA,RNA binding
+6057,bll5415,rplK,translation
+6059,bll5415,rplK,large ribosomal subunit
+6060,bll5415,rplK,cytosolic large ribosomal subunit
+6061,bll5415,rplK,structural constituent of ribosome
+6062,bll5415,rplK,large ribosomal subunit rRNA binding
+6063,blr5537,thrS,cytosol
+6064,blr5537,thrS,threonyl-tRNA aminoacylation
+6065,blr5537,thrS,threonine-tRNA ligase activity
+6066,bll5465,gmd,"GDP-mannose 4,6-dehydratase activity"
+6067,bll5465,gmd,GDP-mannose metabolic process
+6068,bll5465,gmd,'de novo' GDP-L-fucose biosynthetic process
+6069,bll5586,cysE,cytosol
+6070,bll5586,cysE,serine O-acetyltransferase activity
+6071,blr5680,rpe,cellular carbohydrate metabolic process
+6130,blr5680,rpe,D-ribulose-phosphate 3-epimerase activity
+6131,blr5680,rpe,metal ion binding
+6132,blr5680,rpe,cytosol
+6133,blr5680,rpe,"pentose-phosphate shunt, non-oxidative branch"
+6134,blr5690,purB,'de novo' AMP biosynthetic process
+6149,blr5690,purB,cytosol
+6150,blr5690,purB,(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido) succinate lyase (fumarate-forming) activity
+6152,blr5690,purB,"N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity"
+6159,blr5702,murI,amino-acid racemase activity
+6160,blr5702,murI,glutamate racemase activity
+6161,blr5702,murI,peptidoglycan biosynthetic process
+6162,bll5750,alaS,alanine-tRNA ligase activity
+6163,bll5750,alaS,ATP binding
+6164,bll5750,alaS,aminoacyl-tRNA editing activity
+6165,bll5750,alaS,cytosol
+6203,bll5750,alaS,negative regulation of DNA-templated transcription
+6204,bll5750,alaS,amino acid binding
+6205,bll5750,alaS,alanyl-tRNA aminoacylation
+6206,bll5750,alaS,tRNA modification
+6207,blr5752,gcvH,cytoplasm
+6208,blr5752,gcvH,cytosol
+6209,blr5752,gcvH,protein lipoylation
+6225,blr5752,gcvH,glycine decarboxylation via glycine cleavage system
+6226,blr5753,gcvP,cytosol
+6236,blr5753,gcvP,pyridoxal phosphate binding
+6237,blr5753,gcvP,glycine decarboxylation via glycine cleavage system
+6238,blr5753,gcvP,glycine dehydrogenase (decarboxylating) activity
+6239,blr5753,gcvP,glycine binding
+6240,blr5753,gcvP,glycine cleavage complex
+6241,blr5874,garD,galactarate dehydratase activity
+6251,blr5874,garD,D-galacturonate catabolic process
+6252,blr5874,garD,galactarate catabolic process
+6253,bll5916,murJ,lipid translocation
+6320,bll5916,murJ,peptidoglycan biosynthetic process
+6321,bll5916,murJ,lipid-linked peptidoglycan transporter activity
+6327,bll5916,murJ,integral component of plasma membrane
+6328,bll5916,murJ,lipid-linked peptidoglycan transport
+6329,bll5944,ahcY,cytosol
+6330,bll5944,ahcY,adenosylhomocysteinase activity
+6331,bll5944,ahcY,S-adenosylmethionine cycle
+6332,bll5945,metK,methionine adenosyltransferase activity
+6333,bll5945,metK,cytosol
+6334,bll5945,metK,S-adenosylmethionine biosynthetic process
+6335,bll5825,fliM,positive chemotaxis
+6336,blr0162,rpmB,cytosolic large ribosomal subunit
+6337,blr0162,rpmB,structural constituent of ribosome
+6338,bll0187,aroB,3-dehydroquinate synthase activity
+6339,bll0187,aroB,aromatic amino acid family biosynthetic process
+6340,bll0204,secA,integral component of plasma membrane
+6341,bll0204,secA,cell envelope Sec protein transport complex
+6342,bll0204,secA,ATP binding
+6343,bll0204,secA,ABC-type protein transporter activity
+6344,bll0204,secA,protein transport by the Sec complex
+6345,bll0204,secA,cytosol
+6346,bll0214,ubiG,ubiquinone biosynthetic process
+6347,bll0214,ubiG,hexaprenyldihydroxybenzoate methyltransferase activity
+6348,bll0214,ubiG,methyltransferase activity
+6367,blr0150,cyoB,aerobic respiration
+6368,blr0150,cyoB,respiratory electron transport chain
+6405,blr0150,cyoB,electron transport coupled proton transport
+6406,blr0150,cyoB,cytochrome bo3 ubiquinol oxidase activity
+6460,blr0150,cyoB,cytochrome-c oxidase activity
+6461,blr0150,cyoB,integral component of plasma membrane
+6462,bll0284,mqo,oxidoreductase activity
+6466,bll0284,mqo,cytoplasm
+6467,bll0343,hmgA,L-phenylalanine catabolic process
+6468,bll0343,hmgA,"homogentisate 1,2-dioxygenase activity"
+6469,blr0540,typA,GTPase activity
+6478,blr0540,typA,cytosol
+6479,blr0540,typA,ribonucleoprotein complex
+6480,blr0548,ppa,phosphate-containing compound metabolic process
+6481,blr0548,ppa,magnesium ion binding
+6488,blr0548,ppa,cytosol
+6489,blr0548,ppa,inorganic diphosphate phosphatase activity
+6490,blr3989,guaA,cytosol
+6509,blr0420,rplU,structural constituent of ribosome
+6510,bsr0421,rpmA,structural constituent of ribosome
+6511,bsr0421,rpmA,cytosolic large ribosomal subunit
+6512,bsr0431,rsfS,negative regulation of ribosome biogenesis
+6513,bsr0431,rsfS,negative regulation of translation
+6521,bsr0431,rsfS,ribosomal large subunit binding
+6522,bll0442,atpA,"proton-transporting ATP synthase activity, rotational mechanism"
+6523,bll0442,atpA,ATP binding
+6524,bll0442,atpA,ADP binding
+6525,bll0442,atpA,"proton-transporting ATP synthase complex, catalytic core F(1)"
+6526,bll0442,atpA,proton motive force-driven ATP synthesis
+6534,blr0581,purH,IMP cyclohydrolase activity
+6535,blr0581,purH,cytosol
+6536,blr0581,purH,phosphoribosylaminoimidazolecarboxamide formyltransferase activity
+6537,blr0581,purH,'de novo' IMP biosynthetic process
+6542,bll0453,sucD,tricarboxylic acid cycle
+6543,bll0453,sucD,succinate-CoA ligase (ADP-forming) activity
+6547,bll0453,sucD,succinate-CoA ligase complex (ADP-forming)
+6548,bll0453,sucD,succinate-CoA ligase (GDP-forming) activity
+6549,bll0456,mdh,cytoplasm
+6550,bll0456,mdh,L-malate dehydrogenase activity
+6551,bll0473,ftsY,protein targeting
+6557,bll0473,ftsY,signal recognition particle binding
+6558,bll0473,ftsY,plasma membrane
+6559,bll0473,ftsY,GTPase activity
+6560,bll0473,ftsY,membrane
+6561,blr0604,tesB,cytosol
+6567,blr0604,tesB,fatty acid catabolic process
+6568,blr0604,tesB,acyl-CoA hydrolase activity
+6569,blr0604,tesB,acyl-CoA metabolic process
+6570,blr0482,rpsP,small ribosomal subunit
+6580,blr0482,rpsP,structural constituent of ribosome
+6581,blr0487,rplS,cytosolic large ribosomal subunit
+6595,blr0487,rplS,structural constituent of ribosome
+6596,blr0627,leuS,leucyl-tRNA aminoacylation
+6616,blr0627,leuS,cytosol
+6617,blr0627,leuS,leucine-tRNA ligase activity
+6618,bll0633,mnmG,tRNA methylation
+6626,bll0633,mnmG,tRNA wobble uridine modification
+6627,bll0633,mnmG,flavin adenine dinucleotide binding
+6628,bll0633,mnmG,cytosol
+6629,bll0634,mnmE,tRNA wobble uridine modification
+6630,bll0634,mnmE,tRNA methylation
+6631,bll0634,mnmE,cytoplasm
+6632,bll0525,rlmN,tRNA methylation
+6639,bll0525,rlmN,rRNA base methylation
+6640,blr0639,coaE,coenzyme A biosynthetic process
+6645,blr0639,coaE,dephospho-CoA kinase activity
+6646,blr0640,dnaQ,cytosol
+6647,blr0640,dnaQ,3'-5' exonuclease activity
+6648,blr0640,dnaQ,DNA replication proofreading
+6649,bll0646,hslU,ATP hydrolysis activity
+6653,bll0646,hslU,HslUV protease complex
+6654,bll0646,hslU,proteolysis involved in protein catabolic process
+6655,bll0646,hslU,ATP binding
+6656,blr0650,hisB,histidine biosynthetic process
+6658,blr0650,hisB,imidazoleglycerol-phosphate dehydratase activity
+6659,blr0652,hisH,imidazoleglycerol-phosphate synthase activity
+6660,blr0653,hisA,tryptophan biosynthetic process
+6661,blr0653,hisA,cytoplasm
+6662,blr0653,hisA,histidine biosynthetic process
+6663,blr0653,hisA,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity
+6664,blr0656,coaA,coenzyme A biosynthetic process
+6665,blr0656,coaA,pantothenate kinase activity
+6666,blr0656,coaA,cytoplasm
+6667,bll0668,gshB,glutathione synthase activity
+6674,bll0668,gshB,cytoplasm
+6675,bll0668,gshB,"ligase activity, forming carbon-nitrogen bonds"
+6676,bll7086,hemN,"4 iron, 4 sulfur cluster binding"
+6677,bll7086,hemN,cytoplasm
+6678,bll7086,hemN,porphyrin-containing compound biosynthetic process
+6679,bll7086,hemN,cytoplasm
+6680,bll7086,hemN,porphyrin-containing compound biosynthetic process
+6681,bll7086,hemN,protoporphyrinogen IX biosynthetic process
+6682,bll7086,hemN,"4 iron, 4 sulfur cluster binding"
+6683,bll7086,hemN,coproporphyrinogen dehydrogenase activity
+6698,bll0674,rph,rRNA catabolic process
+6699,blr0685,dapB,4-hydroxy-tetrahydrodipicolinate reductase
+6700,blr0685,dapB,cytosol
+6701,blr0685,dapB,diaminopimelate biosynthetic process
+6702,bll0705,pheT,phenylalanyl-tRNA aminoacylation
+6703,bll0705,pheT,phenylalanine-tRNA ligase complex
+6704,bll0706,pheS,phenylalanine-tRNA ligase activity
+6705,bll0706,pheS,phenylalanyl-tRNA aminoacylation
+6706,bll0706,pheS,cytoplasm
+6707,bll0707,rplT,structural constituent of ribosome
+6708,bll0707,rplT,ribosomal large subunit assembly
+6709,bsl0708,rpmI,cytosolic large ribosomal subunit
+6710,bsl0708,rpmI,large ribosomal subunit
+6711,bsl0708,rpmI,structural constituent of ribosome
+6713,bll0710,infC,ribosome binding
+6714,bll0710,infC,ribosome disassembly
+6725,bll0710,infC,cytosol
+6726,bll0710,infC,translation initiation factor activity
+6727,bll0714,queG,epoxyqueuosine reductase activity
+6730,bll0714,queG,queuosine biosynthetic process
+6731,bll6352,ugpC,glycerophosphodiester transmembrane transport
+6732,bll6352,ugpC,"ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing"
+6733,bll6352,ugpC,glycerol-3-phosphate transmembrane transport
+6734,blr0738,aroA,3-phosphoshikimate 1-carboxyvinyltransferase activity
+6735,blr0738,aroA,chorismate biosynthetic process
+6736,blr0739,cmk,cytosol
+6737,blr0739,cmk,nucleobase-containing small molecule interconversion
+6738,blr0739,cmk,cytidylate kinase activity
+6739,blr0740,rpsA,structural constituent of ribosome
+6740,blr0740,rpsA,translation
+6741,blr0740,rpsA,mRNA binding
+6742,blr0740,rpsA,cytosolic small ribosomal subunit
+6743,bll0466,acnA,aconitate hydratase activity
+6744,bll0466,acnA,mRNA binding
+6745,bll0466,acnA,mRNA 3'-UTR binding
+6749,bll0466,acnA,"propionate metabolic process, methylcitrate cycle"
+6750,bll0466,acnA,tricarboxylic acid cycle
+6751,bll0466,acnA,"4 iron, 4 sulfur cluster binding"
+6752,bll0466,acnA,2-methylisocitrate dehydratase activity
+6753,bll0466,acnA,"4 iron, 4 sulfur cluster binding"
+6755,bll0466,acnA,tricarboxylic acid cycle
+6756,bll0466,acnA,cytosol
+6757,bll0466,acnA,aconitate hydratase activity
+6762,bll0466,acnA,citrate metabolic process
+6780,bll0466,acnA,iron-responsive element binding
+6781,bll6730,tarD,D(-)-tartrate dehydratase activity
+6782,bll6730,tarD,magnesium ion binding
+6783,bll6730,tarD,protein homooligomerization
+6784,bll6730,tarD,D(-)-tartrate dehydratase activity
+6785,blr2485,petA,oxidoreductase activity
+6786,bll5070,smpB,RNA binding
+6805,bll5070,smpB,cytosol
+6806,bll5070,smpB,trans-translation-dependent protein tagging
+6807,bll5058,recO,double-strand break repair
+6808,bll5058,recO,bacterial nucleoid
+6809,blr0675,hrcA,negative regulation of DNA-templated transcription
+6810,bll7752,hemH,ferrochelatase activity
+6811,bll7752,hemH,heme biosynthetic process
+6812,blr6659,thiC,cytosol
+6827,blr6659,thiC,thiamine biosynthetic process
+6828,bll6602,murG,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity
+6829,bll6602,murG,glycosyltransferase activity
+6830,blr4810,trpC,indole-3-glycerol-phosphate synthase activity
+6835,blr4810,trpC,phosphoribosylanthranilate isomerase activity
+6843,blr4810,trpC,tryptophan biosynthetic process
+6844,blr0678,dnaK,unfolded protein binding
+6873,blr0678,dnaK,chaperone cofactor-dependent protein refolding
+6874,blr0678,dnaK,ATP hydrolysis activity
+6919,blr0678,dnaK,cytoplasm
+6920,blr0678,dnaK,protein folding chaperone
+6921,blr0678,dnaK,protein refolding
+6934,blr0678,dnaK,heat shock protein binding
+6935,blr0678,dnaK,cellular response to unfolded protein
+6936,blr0678,dnaK,ATP binding
+6937,blr0678,dnaK,misfolded protein binding
+6967,bll7072,exbD,integral component of plasma membrane
+6968,bll7146,ftsH,plasma membrane
+6969,bll7146,ftsH,proteolysis
+6970,bll7146,ftsH,protein catabolic process
+6971,bll7146,ftsH,ATP-dependent peptidase activity
+6977,blr1096,phoB,transcription cis-regulatory region binding
+6978,blr1096,phoB,phosphorelay response regulator activity
+6979,blr1096,phoB,protein-DNA complex
+6980,blr1096,phoB,cytosol
+6981,blr1096,phoB,DNA-binding transcription activator activity
+6982,blr0514,sdhA,plasma membrane
+6983,blr0514,sdhA,anaerobic respiration
+6984,blr0514,sdhA,succinate dehydrogenase activity
+6985,blr0514,sdhA,flavin adenine dinucleotide binding
+6986,blr0514,sdhA,electron transfer activity
+6991,bll2092,pabB,cytoplasm
+7016,bll2092,pabB,para-aminobenzoic acid biosynthetic process
+7017,bll2092,pabB,4-amino-4-deoxychorismate synthase activity
+7024,blr4083,fabG,fatty acid elongation
+7040,blr4083,fabG,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"
+7041,blr1170,coxB,ATP synthesis coupled electron transport
+7042,blr1170,coxB,cytochrome-c oxidase activity
+7043,,,
+7055,,,
+7056,,,
+7057,,,
+7058,,,
+7059,,,
+7078,,,
+7079,,,
+7080,,,
+7081,,,
+7082,,,
+7115,,,
+7116,,,
+7117,,,
+7126,,,
+7127,,,
+7128,,,
+7131,,,
+7153,,,
+7154,,,
+7155,,,
+7156,,,
+7182,,,
+7183,,,
+7184,,,
+7185,,,
+7186,,,
+7187,,,
